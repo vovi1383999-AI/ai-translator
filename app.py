@@ -4,8 +4,8 @@ from groq import Groq
 # 1. Cấu hình trang Web
 st.set_page_config(page_title="AI Translator - Demo", page_icon="🤖")
 
-st.title("🤖 AI Translator Siêu Tốc")
-st.write("Chạy trên Groq Llama 3 - Xây dựng bởi [Tên Bạn]")
+st.title("🤖 AI Translator Siêu Tốc - 1.0")
+st.write("Chạy trên Groq Llama 3 - Xây dựng bởi [HUYNH THIEU DUNG]")
 
 # 2. Sidebar để nhập API Key (Để bảo mật, không hardcode key vào code)
 with st.sidebar:
